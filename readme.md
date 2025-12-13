@@ -38,6 +38,22 @@ pip install -r requirements.txt
 
 
 3.Add your API credentials in config.py:
+## API Key Configuration
+
+This project uses the Binance API and requires API credentials to place orders.
+
+For security reasons, API keys and secrets are NOT included in this repository.
+
+To run the application locally:
+
+1. Create a Binance API key from your Binance account.
+2. Open the `config.py` file.
+3. Add your API credentials as shown below:
+
+```python
+API_KEY = "YOUR_API_KEY"
+API_SECRET = "YOUR_API_SECRET"
+
 
 API_KEY = "YOUR_API_KEY"
 API_SECRET = "YOUR_API_SECRET"
