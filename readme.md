@@ -62,7 +62,7 @@ python cli.py
 
 ---
 
-### 🔹 2️⃣ Sample CLI Flow (VERY IMPORTANT)
+🔹 2️⃣ Sample CLI Flow (VERY IMPORTANT)
 
 ```md
 ## Sample CLI Execution
@@ -85,7 +85,7 @@ This proves you **actually ran the project**.
 
 ---
 
-### 🔹 3️⃣ Logging Details (MANDATORY)
+🔹 3️⃣ Logging Details (MANDATORY)
 
 ```md
 ## Logging
